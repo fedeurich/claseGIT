@@ -1,5 +1,5 @@
 # Federico Urich
-## Foto
+## ejemploClase
 ![ ](./img/mario.jpg "mejor juego de Mario")
 # Datos Generales
 31 años de edad
