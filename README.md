@@ -4,6 +4,6 @@
 # Datos Generales
 31 años de edad
 
-Soltero
+Soltero y virgo jajaja por si se diron cuenta por la imagen de Mario
 
 Soy estudiante de la [UNPAZ](https://www.unpaz.edu.ar/)
